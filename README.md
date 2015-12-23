@@ -5,3 +5,4 @@ ArchiveUtil is a C++ template-based object serialization/deserialization framewo
 # Dependencies
 
 * Xerces XML 2.7 (http://archive.apache.org/dist/xerces/c/2/)
+* Boost (Tested with 1.56)
